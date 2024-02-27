@@ -20,7 +20,7 @@ This project aims to use predictive analytics with supervised machine learning t
 - [STAR Approach](star-approach)
 
 
-## Project Overview (#Project_Overview)
+## Project Overview (Project Overview)
 #### Situation:
 Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.
 #### Task: 
