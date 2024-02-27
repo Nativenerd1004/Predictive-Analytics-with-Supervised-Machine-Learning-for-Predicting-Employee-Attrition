@@ -1,4 +1,7 @@
 # Predictive Analytics with Supervised Machine Learning for Predicting Employee Attrition
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fsm.ac.in%2Fblog%2Fan-introduction-to-machine-learning-its-importance-types-and-applications%2F&psig=AOvVaw0_w7xYhhL0AUVfvIbZAw6e&ust=1709158900642000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDfwZvHzIQDFQAAAAAdAAAAABAE
+
 This project aims to use predictive analytics with supervised machine learning techniques to forecast employee attrition in a company. By analyzing historical data on employee turnover, the goal is to build a model that can accurately predict which employees are at risk of leaving the organization. 
 
 
