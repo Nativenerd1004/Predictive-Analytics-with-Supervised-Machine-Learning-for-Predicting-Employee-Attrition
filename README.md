@@ -8,7 +8,6 @@ This project aims to use predictive analytics with supervised machine learning t
 ![wired-lineal-153-bar-chart](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/e3c4b09a-97f0-48ee-aae4-9f8bafd9f848)
 
 
-
 ## Table of Content 
 - [Project Overview](project-overview)
 - [Project Objectives](project-objectives)
@@ -20,8 +19,14 @@ This project aims to use predictive analytics with supervised machine learning t
 - [Conclusion](conclusion)
 - [STAR Approach](star-approach)
 
+
 ## Project Overview
-The e-commerce performance dashboard aims to provide any ECommerce website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
+Situation: Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.
+Task: Develop a machine learning algorithm to identify employees at high risk of leaving the company.
+Action: This project implements a Gradient Boosting Classifier model, trained on employee data, to predict employee attrition.
+Result: The resulting model provides insights into employee risk, enabling proactive measures to improve retention.
+
+
 
 
 
