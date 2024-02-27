@@ -66,6 +66,13 @@ Techniques like imputation, removal, or scaling may be employed to ensure data q
 Preprocessed data enhances the model's learning ability and reduces potential biases.
 
 
+# Evaluation Metrics
+Situation: Assessing model performance is crucial for understanding its effectiveness.
+Task: We utilize metrics like accuracy, precision, recall, and F1-score to evaluate the model's ability to predict attrition.
+Action: Analyzing these metrics helps identify areas for improvement and gauge the model's suitability for real-world application.
+Result: Evaluation metrics provide insights into the model's strengths and weaknesses, guiding further development or deployment decisions.
+
+
 
 
 
