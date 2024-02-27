@@ -32,13 +32,15 @@ The resulting model provides insights into employee risk, enabling proactive mea
 
 
 
-
-
-
-
-
-
-![Salesdashboard 2023-12-02 at 3 53 41 AM](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/88709500-389b-42ab-81fa-945b03948cbd)
+## Project Objectives
+#### Situation: 
+Our primary objective is to effectively predict employee attrition.
+#### Task: 
+We aim to achieve high accuracy in identifying employees at risk of leaving.
+#### Action:
+We utilize the Gradient Boosting Classifier, known for its efficiency and handling of complex relationships in data.
+#### Result: 
+The model's effectiveness is measured by its ability to accurately predict potential leavers.
 
 
 ## Project Objectives
