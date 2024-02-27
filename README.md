@@ -9,15 +9,14 @@ This project aims to use predictive analytics with supervised machine learning t
 
 
 ## Table of Content 
-- [Project Overview](#project_overview)
-- [Project Objectives](project-objectives)
-- [Data Sources](data-sources)
-- [Data Preprocessing](data-preprocessing)
-- [Evaluation Metrics](evaluation-metrics)
-- [Actionable Insights](project-overview)
-- [Project Overview](project-overview)
-- [Conclusion](conclusion)
-- [STAR Approach](star-approach)
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Data Sources](#data-sources)
+- [Data Preprocessing](#data-preprocessing)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Actionable Insights](#project-overview)
+- [Project Overview](#project-overview)
+- [Conclusion](#conclusion)
 
 
 ## Project Overview (#project_overview)
