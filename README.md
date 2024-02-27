@@ -32,7 +32,7 @@ The resulting model provides insights into employee risk, enabling proactive mea
 
 
 
-## Project Objectives
+# Project Objectives
 #### Situation: 
 Our primary objective is to effectively predict employee attrition.
 #### Task: 
@@ -41,4 +41,23 @@ We aim to achieve high accuracy in identifying employees at risk of leaving.
 We utilize the Gradient Boosting Classifier, known for its efficiency and handling of complex relationships in data.
 #### Result: 
 The model's effectiveness is measured by its ability to accurately predict potential leavers.
+
+
+# Data Sources
+#### Situation: 
+Reliable employee data is crucial for model training.
+#### Task: 
+We leverage a dataset containing employee information, potentially including demographics, job roles, performance metrics, etc.
+#### Action: 
+Collaboration with HR or relevant departments ensures data accuracy and relevance.
+#### Result: 
+Utilizing appropriate data sources is essential for model generalizability and effectiveness.
+
+
+
+
+
+
+
+
 
