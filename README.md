@@ -5,13 +5,6 @@
 
 This project aims to use predictive analytics with supervised machine learning techniques to forecast employee attrition in a company. By analyzing historical data on employee turnover, the goal is to build a model that can accurately predict which employees are at risk of leaving the organization. 
 
-
-
-
-![image](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/5c1e9a27-6b89-4f37-97d3-aec0f8007cc2)
-
-
-
 ![wired-lineal-153-bar-chart](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/e3c4b09a-97f0-48ee-aae4-9f8bafd9f848)
 
 
