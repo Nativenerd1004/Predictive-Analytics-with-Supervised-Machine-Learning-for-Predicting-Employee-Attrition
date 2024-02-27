@@ -55,11 +55,15 @@ Utilizing appropriate data sources is essential for model generalizability and e
 
 
 
-Data Preprocessing
-Situation: Raw data often requires cleaning and preparation before training a model.
-Task: We address missing values, outliers, and inconsistencies within the employee data.
-Action: Techniques like imputation, removal, or scaling may be employed to ensure data quality.
-Result: Preprocessed data enhances the model's learning ability and reduces potential biases.
+# Data Preprocessing
+#### Situation: 
+Raw data often requires cleaning and preparation before training a model.
+#### Task: 
+We address missing values, outliers, and inconsistencies within the employee data.
+#### Action: 
+Techniques like imputation, removal, or scaling may be employed to ensure data quality.
+#### Result: 
+Preprocessed data enhances the model's learning ability and reduces potential biases.
 
 
 
