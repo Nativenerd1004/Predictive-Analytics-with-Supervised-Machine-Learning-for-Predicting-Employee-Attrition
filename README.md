@@ -9,7 +9,7 @@ This project aims to use predictive analytics with supervised machine learning t
 
 
 ## Table of Content 
-- [Project Overview](project_overview)
+- [Project Overview](#project_overview)
 - [Project Objectives](project-objectives)
 - [Data Sources](data-sources)
 - [Data Preprocessing](data-preprocessing)
