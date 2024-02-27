@@ -21,7 +21,7 @@ This project aims to use predictive analytics with supervised machine learning t
 
 
 ## Project Overview
-#### Situation: 
+--**Situation:**-- 
 Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.
 #### Task: 
 Develop a machine learning algorithm to identify employees at high risk of leaving the company.
