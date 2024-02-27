@@ -28,6 +28,7 @@ Developed a machine learning algorithm to identify employees at high risk of lea
 This project implements a Gradient Boosting Classifier model, trained on employee data, to predict employee attrition.
 #### Result: 
 The resulting model provides insights into employee risk, enabling proactive measures to improve retention.
+[Table of Content](#table-of-content)
 
 
 
