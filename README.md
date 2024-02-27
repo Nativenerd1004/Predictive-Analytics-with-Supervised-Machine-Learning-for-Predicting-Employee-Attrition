@@ -24,7 +24,7 @@ This project aims to use predictive analytics with supervised machine learning t
 #### Situation:
 Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.
 #### Task: 
-Develop a machine learning algorithm to identify employees at high risk of leaving the company.
+Developed a machine learning algorithm to identify employees at high risk of leaving the company.
 #### Action: 
 This project implements a Gradient Boosting Classifier model, trained on employee data, to predict employee attrition.
 #### Result: 
