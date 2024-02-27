@@ -30,7 +30,7 @@ This project implements a Gradient Boosting Classifier model, trained on employe
 The resulting model provides insights into employee risk, enabling proactive measures to improve retention.
 [Table of Content](#table-of-content)
 
-alg = GradientBoostingClassifier()
+
 
 ## Project Objectives
 #### Situation: 
