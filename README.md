@@ -41,6 +41,7 @@ The company aims to achieve high accuracy in identifying employees at risk of le
 I utilized the Gradient Boosting Classifier, known for its efficiency and handling of complex relationships in data.
 #### Result: 
 The model's effectiveness is measured by its ability to accurately predict potential leavers.
+[Table of Content](#table-of-content)
 
 
 ## Data Sources
@@ -52,6 +53,7 @@ I leveraged a dataset containing employee information, potentially including dem
 Collaboration with HR or relevant departments ensures data accuracy and relevance.
 #### Result: 
 Utilizing appropriate data sources is essential for model generalizability and effectiveness.
+[Table of Content](#table-of-content)
 
 
 
@@ -64,6 +66,7 @@ We address missing values, outliers, and inconsistencies within the employee dat
 Techniques like imputation, removal, or scaling may be employed to ensure data quality.
 #### Result: 
 Preprocessed data enhances the model's learning ability and reduces potential biases.
+[Table of Content](#table-of-content)
 
 
 ## Evaluation Metrics
@@ -75,6 +78,7 @@ We utilize metrics like accuracy, precision, recall, and F1-score to evaluate th
 Analyzing these metrics helps identify areas for improvement and gauge the model's suitability for real-world application.
 #### Result: 
 Evaluation metrics provide insights into the model's strengths and weaknesses, guiding further development or deployment decisions.
+[Table of Content](#table-of-content)
 
 ## Actionable Insights
 #### Situation: 
@@ -85,11 +89,13 @@ Identify employees at high risk and implement targeted interventions to address 
 This may involve providing career development opportunities, addressing work-life balance issues, or offering competitive compensation packages.
 #### Result: 
 Actionable insights derived from the model can contribute to improved employee satisfaction and reduced turnover costs.
+[Table of Content](#table-of-content)
 
 # Conclusion
 This machine learning algorithm leveraging a Gradient Boosting Classifier offers valuable insights into employee attrition. By effectively combining data preparation, model training, and evaluation, this project demonstrates the potential of machine learning to address real-world business challenges in the HR domain.
 
 Note: This documentation serves as a general framework and might need adjustments based on the specific details and functionalities of your implemented algorithm.
+[Table of Content](#table-of-content)
 
 
 
