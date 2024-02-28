@@ -173,6 +173,10 @@ Visualize the missing data
 !td_scaled
 ```
 
+![Encoding, Segmentation, Scaling ](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/3e68baf8-e9db-42cc-b607-c73d090018f4)
+![Scaler](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/79e02c36-5088-4524-a7f2-3313f60835c9)
+
+
 [Table of Content](#table-of-content)
 
 
