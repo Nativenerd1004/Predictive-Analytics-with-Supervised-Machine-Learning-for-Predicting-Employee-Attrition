@@ -191,10 +191,15 @@ Visualize the missing data
 +from sklearn.svm import SVC 
 ```
 
-
-
-
-
+#### Instantiate model
+```diff 
++log_reg = LogisticRegression()
+```
+# now let's predict with the x_test 20% dataset which is the testing data
+```diff 
+@@log_pred = log_reg.predict(x_test)
+@@log_pred
+```
 
 
 
