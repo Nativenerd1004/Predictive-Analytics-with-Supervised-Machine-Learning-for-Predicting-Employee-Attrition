@@ -1,4 +1,4 @@
-# Predictive Analytics with Supervised Machine Learning for Predicting Employee Attrition
+# Predicting Employee's Attrition with Supervised Machine Learning.
 
 ![image](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/23871480-e126-40bf-baff-12b578ee98a4)
 
