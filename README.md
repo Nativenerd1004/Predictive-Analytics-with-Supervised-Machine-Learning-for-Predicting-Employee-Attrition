@@ -1,5 +1,4 @@
 # Predictive Analytics with Supervised Machine Learning for Predicting Employee Attrition
-## <b><div style='padding:15px;background-color:#003f88;color:red;border-radius:2px;font-size:110%;text-align: left'>SUPERVISED MACHINE LEARNING GOALS</div></b>
 
 ![image](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/23871480-e126-40bf-baff-12b578ee98a4)
 
