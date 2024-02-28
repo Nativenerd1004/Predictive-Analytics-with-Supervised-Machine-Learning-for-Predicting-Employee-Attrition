@@ -195,11 +195,13 @@ Visualize the missing data
 ```diff 
 +log_reg = LogisticRegression()
 ```
-# now let's predict with the x_test 20% dataset which is the testing data
+#### now let's predict with the x_test 20% dataset which is the testing data
 ```diff 
 @@log_pred = log_reg.predict(x_test)@@
 @@log_pred@@
 ```
+![Machine Learning Computation](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/fa43ad37-9d0e-49f0-8536-a75015d62398)
+
 
 
 
