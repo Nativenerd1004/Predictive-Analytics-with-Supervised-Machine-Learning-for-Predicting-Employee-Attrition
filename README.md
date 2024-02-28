@@ -63,13 +63,14 @@ Utilizing appropriate data sources is essential for model generalizability and e
 
 ## Data Preprocessing
 
-#Getting overview about the data 
-
+#### Getting overview about the data 
 td.info()
 ![Data Overview](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/1b25632d-0703-41d6-8cc1-a7bd33017021)
 
 #Statistical Analysis on Numerical Data
 td.describe().T
+
+
 
 
 #### Situation: 
