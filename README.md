@@ -149,49 +149,50 @@ This project aims to use predictive analytics with supervised machine learning t
 ## Evaluation Metrics
 #### Situation:
 ```diff 
-Assessing model performance is crucial for understanding its effectiveness.
+- Assessing model performance is crucial for understanding its effectiveness.
 ```
 #### Task: 
 ```diff 
-We utilize metrics like accuracy, precision, recall, and F1-score to evaluate the model's ability to predict attrition.
+- We utilize metrics like accuracy, precision, recall, and F1-score to evaluate the model's ability to predict attrition.
 ```
 #### Action: 
 ```diff 
-Analyzing these metrics helps identify areas for improvement and gauge the model's suitability for real-world application.
+- Analyzing these metrics helps identify areas for improvement and gauge the model's suitability for real-world application.
 ```
 #### Result: 
 ```diff 
-Evaluation metrics provide insights into the model's strengths and weaknesses, guiding further development or deployment decisions.
+- Evaluation metrics provide insights into the model's strengths and weaknesses, guiding further development or deployment decisions.
 ```
 [Table of Content](#table-of-content)
 
 ## Actionable Insights
 #### Situation: 
 ```diff 
-The model's predictions can inform strategic HR decisions.
+- The model's predictions can inform strategic HR decisions.
 ```
 #### Task: 
 ```diff 
-Identify employees at high risk and implement targeted interventions to address their concerns and improve retention.
+- Identify employees at high risk and implement targeted interventions to address their concerns and improve retention.
 ```
 #### Action: 
 ```diff 
-This may involve providing career development opportunities, addressing work-life balance issues, or offering competitive compensation packages.
+- This may involve providing career development opportunities, addressing work-life balance issues, or offering competitive compensation packages.
 ```
 #### Result: 
 ```diff 
-Actionable insights derived from the model can contribute to improved employee satisfaction and reduced turnover costs.
+- Actionable insights derived from the model can contribute to improved employee satisfaction and reduced turnover costs.
 ```
 [Table of Content](#table-of-content)
 
 # Conclusion
 ```diff 
-This machine learning algorithm leveraging a Gradient Boosting Classifier offers valuable insights into employee attrition. By effectively combining data preparation, model training, and evaluation, this project demonstrates the potential of machine learning to address real-world business challenges in the HR domain.
+- This machine learning algorithm leveraging a Gradient Boosting Classifier offers valuable insights into employee attrition. By effectively combining data preparation, model training, and evaluation, this project demonstrates the potential of machine learning to address real-world business challenges in the HR domain.
 ```
 ```diff 
-Note: This documentation serves as a general framework and might need adjustments based on the specific details and functionalities of your implemented algorithm.
-[Table of Content](#table-of-content)
+- Note: This documentation serves as a general framework and might need adjustments based on the specific details and functionalities of your implemented algorithm.
 ```
+[Table of Content](#table-of-content)
+
 
 
 
