@@ -135,6 +135,7 @@ This project aims to use predictive analytics with supervised machine learning t
 ```diff 
 +td.drop(['Over18','StandardHours','EmployeeCount','EmployeeNumber'],axis=1,inplace=True)
 ```
+![Dropping Off Syntax](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/2b5663a8-3ff9-4f55-a187-f3bc57f13974)
 
 
 
