@@ -37,15 +37,15 @@ This project aims to use predictive analytics with supervised machine learning t
 ```
 #### Task: 
 ```diff 
-To develope a machine learning algorithm to identify employees at high risk of leaving the company.
+- To develope a machine learning algorithm to identify employees at high risk of leaving the company.
 ```
 #### Action: 
 ```diff 
-This project implements a Gradient Boosting Classifier model, trained on employee data, to predict employee attrition.
+- This project implements a Gradient Boosting Classifier model, trained on employee data, to predict employee attrition.
 ```
 #### Result: 
 ```diff 
-The resulting model provides insights into employee risk, enabling proactive measures to improve retention.
+- The resulting model provides insights into employee risk, enabling proactive measures to improve retention.
 ```
 [Table of Content](#table-of-content)
 
@@ -54,19 +54,19 @@ The resulting model provides insights into employee risk, enabling proactive mea
 ## Project Objectives
 #### Situation: 
 ```diff 
-The primary objective is to effectively predict employee attrition.
+- The primary objective is to effectively predict employee attrition.
 ```
 #### Task: 
 ```diff 
-The company aims to achieve high accuracy in identifying employees at risk of leaving.
+- The company aims to achieve high accuracy in identifying employees at risk of leaving.
 ```
 #### Action:
 ```diff 
-I utilized the Gradient Boosting Classifier, known for its efficiency and handling of complex relationships in data.
+- I utilized the Gradient Boosting Classifier, known for its efficiency and handling of complex relationships in data.
 ```
 #### Result: 
 ```diff 
-The model's effectiveness is measured by its ability to accurately predict potential leavers.
+- The model's effectiveness is measured by its ability to accurately predict potential leavers.
 ```
 [Table of Content](#table-of-content)
 
@@ -81,19 +81,19 @@ The model's effectiveness is measured by its ability to accurately predict poten
 
 #### Situation: 
 ```diff 
-Reliable employee data is crucial for model training.
+- Reliable employee data is crucial for model training.
 ```
 #### Task: 
 ```diff 
-I leveraged a dataset containing employee information, potentially including demographics, job roles, performance metrics, etc.
+- I leveraged a dataset containing employee information, potentially including demographics, job roles, performance metrics, etc.
 ```
 #### Action: 
 ```diff 
-Collaboration with HR or relevant departments ensures data accuracy and relevance.
+- Collaboration with HR or relevant departments ensures data accuracy and relevance.
 ```
 #### Result: 
 ```diff 
-Utilizing appropriate data sources is essential for model generalizability and effectiveness.
+- Utilizing appropriate data sources is essential for model generalizability and effectiveness.
 ```
 [Table of Content](#table-of-content)
 
@@ -103,13 +103,13 @@ Utilizing appropriate data sources is essential for model generalizability and e
 
 #### Getting overview about the data 
 ```diff 
-td.info()
++ td.info()
 ```
 ![Data Overview](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/1b25632d-0703-41d6-8cc1-a7bd33017021)
 
 #### Statistical Analysis on Numerical Data
 ```diff 
-td.describe().T
++ td.describe().T
 ```
 ![Numerical Statistical Analysis](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/5901ff43-c4bd-4953-9075-754ecaac6de8)
 
@@ -119,8 +119,8 @@ td.describe().T
 
 **Visualize the missing data**
 ```diff 
-plt.figure(figsize = (10,3))
-sns.heatmap(td.isnull(), cbar=True, cmap="magma")
++ plt.figure(figsize = (10,3))
++ sns.heatmap(td.isnull(), cbar=True, cmap="magma")
 ```
 ![Missing Values](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/e5e0e01d-82e5-40d8-ba9a-540175b50bb5)
 
@@ -129,19 +129,19 @@ sns.heatmap(td.isnull(), cbar=True, cmap="magma")
 
 #### Situation: 
 ```diff 
-Raw data often requires cleaning and preparation before training a model.
+- Raw data often requires cleaning and preparation before training a model.
 ```
 #### Task: 
 ```diff 
-We address missing values, outliers, and inconsistencies within the employee data.
+- We address missing values, outliers, and inconsistencies within the employee data.
 ```
 #### Action: 
 ```diff 
-Techniques like imputation, removal, or scaling may be employed to ensure data quality.
+- Techniques like imputation, removal, or scaling may be employed to ensure data quality.
 ```
 #### Result: 
 ```diff 
-Preprocessed data enhances the model's learning ability and reduces potential biases.
+- Preprocessed data enhances the model's learning ability and reduces potential biases.
 ```
 [Table of Content](#table-of-content)
 
