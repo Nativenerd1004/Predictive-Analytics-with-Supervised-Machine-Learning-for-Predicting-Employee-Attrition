@@ -43,6 +43,9 @@ This project aims to use predictive analytics with supervised machine learning t
 ```diff 
 - This project implements a Gradient Boosting Classifier model, trained on employee data, to predict employee attrition.
 ```
+![GradientBoostingClassifier](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/6679bb27-d024-45d9-8264-7474f38e428d)
+
+
 #### Result: 
 ```diff 
 - The resulting model provides insights into employee risk, enabling proactive measures to improve retention.
