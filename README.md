@@ -9,7 +9,13 @@ This project aims to use predictive analytics with supervised machine learning t
 
 <h2 style="color: #ff5722; background-color: ##ad4444;">Colored Heading</h2>
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 ## Table of Content 
