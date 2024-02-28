@@ -30,7 +30,7 @@ This project aims to use predictive analytics with supervised machine learning t
 
 
 ```diff
-Money
++ Money
 ```
 
 ## Project Overview
