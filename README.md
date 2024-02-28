@@ -126,7 +126,7 @@ Visualize the missing data
 ![Missing Values](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/e5e0e01d-82e5-40d8-ba9a-540175b50bb5)
 
 
-#### #Statistical Analysis on categorical Data
+#### Statistical Analysis on categorical Data
 ```diff 
 +td.describe(include=['object','bool'])
 ```
@@ -167,6 +167,12 @@ Visualize the missing data
 ```diff 
 - Preprocessed data enhances the model's learning ability and reduces potential biases.
 ```
+```diff 
+!scaler = MinMaxScaler()
+!td_scaled = pd.DataFrame(scaler.fit_transform(td2), columns = td2.columns)
+!td_scaled
+```
+
 [Table of Content](#table-of-content)
 
 
