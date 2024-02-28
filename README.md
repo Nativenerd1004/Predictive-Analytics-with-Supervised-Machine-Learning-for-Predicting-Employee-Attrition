@@ -34,7 +34,10 @@ Text
 
 ## Project Overview
 #### Situation:
-```diff - Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.```
+
+```diff 
+- Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.
+```
 #### Task: 
 To develope a machine learning algorithm to identify employees at high risk of leaving the company.
 #### Action: 
