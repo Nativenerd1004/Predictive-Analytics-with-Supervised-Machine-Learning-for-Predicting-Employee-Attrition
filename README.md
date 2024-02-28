@@ -69,8 +69,17 @@ td.info()
 
 #### Statistical Analysis on Numerical Data
 td.describe().T
+
 ![Numerical Statistical Analysis](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/5901ff43-c4bd-4953-9075-754ecaac6de8)
 
+##### Missing Values
+
+**print (td.isnull().sum())**
+
+**Visualize the missing data**
+plt.figure(figsize = (10,3))
+sns.heatmap(td.isnull(), cbar=True, cmap="magma")
+![Missing Values](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/e5e0e01d-82e5-40d8-ba9a-540175b50bb5)
 
 
 
