@@ -129,6 +129,8 @@ This project aims to use predictive analytics with supervised machine learning t
 ```diff 
 +td.describe(include=['object','bool'])
 ```
+![Categorical Statistics](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/93ffeb2e-3ddf-4cea-bffc-40595e200b54)
+
 
 
 
