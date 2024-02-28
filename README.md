@@ -146,6 +146,19 @@ Visualize the missing data
 ```
 ![Copy-Of-Data-Set 2024-02-28 at 2 15 11 AM](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/fafa59e4-403c-49b4-b5f7-8f7fde795460)
 
+#### identifying key features from the data set
+```diff 
++model = RandomForestClassifier()
+```
+
+#### fit the model
+```diff 
+-model.fit(td_scaled, target)
+-importances = model.feature_importances_
+-sort_imp = np.argsort(importances)
+-names = list(td2.columns)
+```
+
 
 
 
