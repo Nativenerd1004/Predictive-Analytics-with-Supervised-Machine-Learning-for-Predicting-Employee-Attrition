@@ -170,9 +170,10 @@ Visualize the missing data
 ![Feature Importance Graph](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/dd4ee443-ada2-4385-ba5f-c17670ed7cf5)
 
 #### split the DataFrame into train and test datasets
-```diff 
+```diff
 !from sklearn.model_selection import train_test_split
 ```
+```diff
 !x_train, x_test, y_train, y_val = train_test_split(td_scaled, target, train_size=0.8, random_state=1)
 !x_train # This is the data we will be training from
 ```
