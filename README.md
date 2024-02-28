@@ -115,10 +115,10 @@ This project aims to use predictive analytics with supervised machine learning t
 
 ##### Missing Values
 ```diff 
-! print (td.isnull().sum())**
+! print (td.isnull().sum())
 ```
 
-**Visualize the missing data**
+**Visualize the missing data
 ```diff 
 + plt.figure(figsize = (10,3))
 + sns.heatmap(td.isnull(), cbar=True, cmap="magma")
@@ -139,6 +139,7 @@ This project aims to use predictive analytics with supervised machine learning t
 ![Dropping Off Syntax](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/2b5663a8-3ff9-4f55-a187-f3bc57f13974)
 
 
+![Copy-Of-Data-Set 2024-02-28 at 2 15 11 AM](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/fafa59e4-403c-49b4-b5f7-8f7fde795460)
 
 
 
