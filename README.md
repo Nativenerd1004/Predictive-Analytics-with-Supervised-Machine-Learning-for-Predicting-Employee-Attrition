@@ -7,7 +7,6 @@ This project aims to use predictive analytics with supervised machine learning t
 
 ![wired-lineal-153-bar-chart](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/e3c4b09a-97f0-48ee-aae4-9f8bafd9f848)
 
-<h2 style="color: #ff5722; background-color: ##ad4444;">Colored Heading</h2>
 
 ```diff
 - text in red
@@ -16,7 +15,9 @@ This project aims to use predictive analytics with supervised machine learning t
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
+```diff
+Text
+```
 
 ## Table of Content
 - [Project Overview](#project-overview)
@@ -29,9 +30,7 @@ This project aims to use predictive analytics with supervised machine learning t
 - [Conclusion](#conclusion)
 
 
-```diff
-+Money
-```
+
 
 ## Project Overview
 #### Situation:
@@ -59,7 +58,8 @@ The model's effectiveness is measured by its ability to accurately predict poten
 
 
 ## Data Sources
-#### Importing Data into python
+
++ Importing Data into python
 ![Data Import](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/00bed890-e722-4339-9c6c-258fb9f14e7a)
 
 
