@@ -167,6 +167,7 @@ Visualize the missing data
 +plt.title("Feature Importance")
 +plt.xlabel("relative importance measure")
 ```
+![Feature Importance Graph](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/dd4ee443-ada2-4385-ba5f-c17670ed7cf5)
 
 
 
