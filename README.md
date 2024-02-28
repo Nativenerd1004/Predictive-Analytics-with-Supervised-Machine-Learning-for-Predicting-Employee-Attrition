@@ -159,8 +159,14 @@ Visualize the missing data
 -names = list(td2.columns)
 ```
 
-
-
+#### plotting a feature importance chart
+```diff 
++plt.figure(figsize=(10,7))
++plt.barh(range(len(sort_imp)),importances[sort_imp], color="red")
++plt.yticks(range(len(sort_imp)), [names[x] for x in sort_imp])
++plt.title("Feature Importance")
++plt.xlabel("relative importance measure")
+```
 
 
 
