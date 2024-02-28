@@ -131,8 +131,10 @@ This project aims to use predictive analytics with supervised machine learning t
 ```
 ![Categorical Statistics](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/93ffeb2e-3ddf-4cea-bffc-40595e200b54)
 
-
-
+#### dropping off some redundant features
+```diff 
++td.drop(['Over18','StandardHours','EmployeeCount','EmployeeNumber'],axis=1,inplace=True)
+```
 
 
 
