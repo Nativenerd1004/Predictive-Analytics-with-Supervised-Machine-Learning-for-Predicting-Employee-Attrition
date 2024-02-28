@@ -114,8 +114,9 @@ This project aims to use predictive analytics with supervised machine learning t
 ![Numerical Statistical Analysis](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/5901ff43-c4bd-4953-9075-754ecaac6de8)
 
 ##### Missing Values
-
-**print (td.isnull().sum())**
+```diff 
+! print (td.isnull().sum())**
+```
 
 **Visualize the missing data**
 ```diff 
