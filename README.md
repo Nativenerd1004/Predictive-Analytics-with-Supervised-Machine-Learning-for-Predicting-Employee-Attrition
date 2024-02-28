@@ -203,7 +203,9 @@ Visualize the missing data
 ![Machine Learning Computation](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/fa43ad37-9d0e-49f0-8536-a75015d62398)
 
 
+#### import evaluation metrics
 
+from sklearn.metrics import classification_report, confusion_matrix
 
 
 
