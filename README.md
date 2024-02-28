@@ -17,7 +17,7 @@ This project aims to use predictive analytics with supervised machine learning t
 @@ text in purple (and bold)@@
 ```
 
-```diff
+```diff```
 + ## Table of Content 
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
