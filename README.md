@@ -169,7 +169,7 @@ Visualize the missing data
 ```
 ![Feature Importance Graph](https://github.com/Nativenerd1004/Predictive-Analytics-with-Supervised-Machine-Learning-for-Predicting-Employee-Attrition/assets/149740069/dd4ee443-ada2-4385-ba5f-c17670ed7cf5)
 
-# split the DataFrame into train and test datasets
+#### split the DataFrame into train and test datasets
 ```diff 
 !from sklearn.model_selection import train_test_split
 ```
@@ -182,6 +182,13 @@ Visualize the missing data
 +x_test # This is the data we will be predicting from. 
 ```
 
+#### Import model classifier 
+```diff 
++from sklearn.linear_model import LogisticRegression
++from sklearn.tree import DecisionTreeClassifier
++from sklearn.ensemble import GradientBoostingClassifier
++from sklearn.svm import SVC 
+```
 
 
 
