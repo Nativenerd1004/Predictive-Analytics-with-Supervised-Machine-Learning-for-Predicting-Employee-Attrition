@@ -17,7 +17,7 @@ This project aims to use predictive analytics with supervised machine learning t
 @@ text in purple (and bold)@@
 ```
 
-
+```diff
 + ## Table of Content 
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
@@ -132,7 +132,7 @@ This machine learning algorithm leveraging a Gradient Boosting Classifier offers
 
 Note: This documentation serves as a general framework and might need adjustments based on the specific details and functionalities of your implemented algorithm.
 [Table of Content](#table-of-content)
-
+```
 
 
 
