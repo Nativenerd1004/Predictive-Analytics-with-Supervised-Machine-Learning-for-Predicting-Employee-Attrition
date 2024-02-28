@@ -7,6 +7,10 @@ This project aims to use predictive analytics with supervised machine learning t
 
 ![wired-lineal-153-bar-chart](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/e3c4b09a-97f0-48ee-aae4-9f8bafd9f848)
 
+<h2 style="color: #ff5722; background-color: #f0f0f0;">Colored Heading</h2>
+
+
+
 
 ## Table of Content 
 - [Project Overview](#project-overview)
