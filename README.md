@@ -197,9 +197,26 @@ Visualize the missing data
 ```
 # now let's predict with the x_test 20% dataset which is the testing data
 ```diff 
-@@log_pred = log_reg.predict(x_test)
-@@log_pred
+@@log_pred = log_reg.predict(x_test)@@
+@@log_pred@@
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
