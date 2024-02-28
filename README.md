@@ -17,8 +17,8 @@ This project aims to use predictive analytics with supervised machine learning t
 @@ text in purple (and bold)@@
 ```
 
-```diff```
-+ ## Table of Content 
+
+## Table of Content
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Data Sources](#data-sources)
@@ -28,8 +28,8 @@ This project aims to use predictive analytics with supervised machine learning t
 - [Project Overview](#project-overview)
 - [Conclusion](#conclusion)
 
-
-## Project Overview
+```diff 
+## Project Overview 
 #### Situation:
 Businesses face challenges retaining valuable employees, and predicting potential attrition can aid in mitigating this issue.
 #### Task: 
